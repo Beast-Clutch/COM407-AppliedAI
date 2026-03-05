@@ -1,0 +1,107 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 188308252,
+  "description": "",
+  "download_checksums": {
+    "/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI/week_4/pp-2025.csv": {
+      "num_bytes": 131832395,
+      "checksum": null
+    }
+  },
+  "download_size": 131832395,
+  "features": {
+    "Transaction_unique_identifier": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Price": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Date_of_Transfer": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Postcode": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Property_Type": {
+      "names": [
+        "D",
+        "F",
+        "S",
+        "T"
+      ],
+      "_type": "ClassLabel"
+    },
+    "Old_New": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Duration": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "PAON": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "SAON": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Street": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Locality": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Town_City": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "District": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "County": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "PPD_Category_Type": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Record_Status": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "Price_Category": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 320140647,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 188308252,
+      "num_examples": 757816,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
