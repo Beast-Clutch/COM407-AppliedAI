@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <change beforePath="$PROJECT_DIR$/week_1/01_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_1/01_introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/assets/mnist_dataframe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/assets/mnist_dataframe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/assets/mnist_test_dataframe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/assets/mnist_test_dataframe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/AppliedAI" value="39ZaXOvsnpJMLKfqFypB6ZpbHRi" />
+      <entry key="_/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI" value="39ccfA7PQDIML9bi0WNzxPANgdw" />
+      <entry key="_C:/Users/jackt/OneDrive - University of Chichester/COM407-AppliedAI" value="3A8YksaxLdS2c8D4QX2xA4ohk3L" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Beast-Clutch&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Beast-Clutch/COM407-AppliedAI.git&quot;,
+    &quot;accountId&quot;: &quot;3322c80a-2904-425d-9425-a6970508d978&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="39ZaXOvsnpJMLKfqFypB6ZpbHRi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="" />
+      <created>1770906085921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770906085921</updated>
+      <workItem from="1770906086962" duration="98000" />
+      <workItem from="1770906194454" duration="5489000" />
+      <workItem from="1770979898877" duration="183000" />
+      <workItem from="1770989797624" duration="5755000" />
+      <workItem from="1770998901050" duration="713000" />
+      <workItem from="1770999627249" duration="124000" />
+      <workItem from="1771244986045" duration="1000" />
+      <workItem from="1771975805053" duration="2211000" />
+      <workItem from="1772113603261" duration="8314000" />
+      <workItem from="1772663711365" duration="435000" />
+      <workItem from="1772701165767" duration="500000" />
+      <workItem from="1772701909567" duration="10000" />
+      <workItem from="1772715451515" duration="66000" />
+      <workItem from="1772715518740" duration="12347000" />
+      <workItem from="1772737683074" duration="720000" />
+      <workItem from="1772834362909" duration="292000" />
+      <workItem from="1772835844872" duration="45000" />
+      <workItem from="1772975968757" duration="216000" />
+      <workItem from="1772976197420" duration="158000" />
+      <workItem from="1772976522089" duration="1297000" />
+      <workItem from="1772986735561" duration="8000" />
+      <workItem from="1772991352372" duration="4064000" />
+      <workItem from="1773009085522" duration="1394000" />
+      <workItem from="1773011044345" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="Week 3 Halfway through">
+      <option name="closed" value="true" />
+      <created>1772112960782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772112960782</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Week 3 Notebook added and working through.">
+      <option name="closed" value="true" />
+      <created>1772114689927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772114689927</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Week 3 End of Lecture Upload.">
+      <option name="closed" value="true" />
+      <created>1772124372632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772124372632</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Git Ignore Fix">
+      <option name="closed" value="true" />
+      <created>1772125826875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772125826875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <option name="closed" value="true" />
+      <created>1772726617253</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772726617253</updated>
+    </task>
+    <task id="LOCAL-00006" summary="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <option name="closed" value="true" />
+      <created>1772735424598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772735424598</updated>
+    </task>
+    <task id="LOCAL-00007" summary="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <option name="closed" value="true" />
+      <created>1772735648792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772735648792</updated>
+    </task>
+    <task id="LOCAL-00008" summary="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <option name="closed" value="true" />
+      <created>1772735934521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772735934521</updated>
+    </task>
+    <task id="LOCAL-00009" summary="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <option name="closed" value="true" />
+      <created>1772736000521</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772736000521</updated>
+    </task>
+    <task id="LOCAL-00010" summary="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <option name="closed" value="true" />
+      <created>1772976163677</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772976163677</updated>
+    </task>
+    <task id="LOCAL-00011" summary="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
+      <option name="closed" value="true" />
+      <created>1773010224675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773010224675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 3 Halfway through" />
+    <MESSAGE value="Week 3 Notebook added and working through." />
+    <MESSAGE value="Week 3 End of Lecture Upload." />
+    <MESSAGE value="Git Ignore Fix" />
+    <MESSAGE value="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
