@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis">
-      <change beforePath="$PROJECT_DIR$/week_1/01_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_1/01_introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/assets/mnist_dataframe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/assets/mnist_dataframe.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/assets/mnist_test_dataframe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/assets/mnist_test_dataframe.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jack &lt;67729936+beast-clutch@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -60,27 +57,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -235,7 +232,8 @@
     <MESSAGE value="Week 3 End of Lecture Upload." />
     <MESSAGE value="Git Ignore Fix" />
     <MESSAGE value="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis" />
+    <MESSAGE value="Wk5 - Added Wk5 Notebook and removed hardcoded file paths to work on any system without editing the program codes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Wk5 - Added Wk5 Notebook and removed hardcoded file paths to work on any system without editing the program codes." />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
