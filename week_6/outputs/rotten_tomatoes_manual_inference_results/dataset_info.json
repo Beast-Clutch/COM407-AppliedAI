@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "text": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "true_label_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "true_label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "pred_label_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "pred_label": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "confidence": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "correct": {
+      "dtype": "bool",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
