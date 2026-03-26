@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Updated HF_TOKEN">
-      <change afterPath="$PROJECT_DIR$/.env.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_1/01_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_1/01_introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_5/05_transformers_foundations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5/05_transformers_foundations.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_5/05_transformers_foundations_initial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5/05_transformers_foundations_initial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_6/06_transformers_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_6/06_transformers_exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_6/06_transformers_exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_6/06_transformers_exercises_with_solutions.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Hidden HF Taken behind .env for public repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +64,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.configTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -272,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774532535725</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Hidden HF Taken behind .env for public repo">
+      <option name="closed" value="true" />
+      <created>1774535667990</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774535667990</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +293,11 @@
     <MESSAGE value="Wk5 - Added Wk5 Notebook and removed hardcoded file paths to work on any system without editing the program codes." />
     <MESSAGE value="Wk6 - End of Wk6 Lessons. Transformers exercises to complete from Task 15." />
     <MESSAGE value="Updated HF_TOKEN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated HF_TOKEN" />
+    <MESSAGE value="Hidden HF Taken behind .env for public repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hidden HF Taken behind .env for public repo" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COM407_AppliedAI$configTest.coverage" NAME="configTest Coverage Results" MODIFIED="1774535495611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
