@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Hidden HF Taken behind .env for public repo" />
+    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Added requirements.txt">
+      <change afterPath="$PROJECT_DIR$/week_7/07_ag_news_lab_sheet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_7/07_finetuning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_7/week_06_slides.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +79,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI/week_6",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -267,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774535667990</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added requirements.txt">
+      <option name="closed" value="true" />
+      <created>1774535980646</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1774535980646</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +307,8 @@
     <MESSAGE value="Wk6 - End of Wk6 Lessons. Transformers exercises to complete from Task 15." />
     <MESSAGE value="Updated HF_TOKEN" />
     <MESSAGE value="Hidden HF Taken behind .env for public repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hidden HF Taken behind .env for public repo" />
+    <MESSAGE value="Added requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added requirements.txt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/COM407_AppliedAI$configTest.coverage" NAME="configTest Coverage Results" MODIFIED="1774535495611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
