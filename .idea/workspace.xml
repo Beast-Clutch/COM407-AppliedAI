@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Wk6 - End of Wk6 Lessons. Transformers exercises to complete from Task 15.">
+    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Updated HF_TOKEN">
+      <change afterPath="$PROJECT_DIR$/.env.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week_1/01_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_1/01_introduction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/Applied_AI_Datasets_Recap.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week_5/05_transformers_foundations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5/05_transformers_foundations.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week_5/05_transformers_foundations_initial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5/05_transformers_foundations_initial.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week_6/06_transformers_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_6/06_transformers_exercises.ipynb" afterDir="false" />
@@ -30,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -69,27 +75,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI/week_6&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI/week_6",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week_6" />
@@ -258,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773935986430</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Updated HF_TOKEN">
+      <option name="closed" value="true" />
+      <created>1774532535725</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532535725</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +297,8 @@
     <MESSAGE value="WK4 - Tasks to complete&#10;&#10;&#10;Add dataset and state files for housing data analysis" />
     <MESSAGE value="Wk5 - Added Wk5 Notebook and removed hardcoded file paths to work on any system without editing the program codes." />
     <MESSAGE value="Wk6 - End of Wk6 Lessons. Transformers exercises to complete from Task 15." />
-    <option name="LAST_COMMIT_MESSAGE" value="Wk6 - End of Wk6 Lessons. Transformers exercises to complete from Task 15." />
+    <MESSAGE value="Updated HF_TOKEN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated HF_TOKEN" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
