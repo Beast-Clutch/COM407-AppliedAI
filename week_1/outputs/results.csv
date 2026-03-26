@@ -1,4 +1,3 @@
-inputs,label,score
-This is the best tool I've used all year.,POSITIVE,0.999674916267395
-This is terrible and frustrating.,NEGATIVE,0.999574601650238
-Well... it's not the worst thing I've seen.,NEGATIVE,0.672244131565094
+version https://git-lfs.github.com/spec/v1
+oid sha256:d260b415173741a6f62b48f7bcd8b91e909da0b41e2e3e0ccbab5b07180992ca
+size 220
