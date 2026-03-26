@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Wk6 - End of Wk6 Lessons. Transformers exercises to complete from Task 15.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_1/01_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_1/01_introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02 - Warm Up Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_2/02_building_a_NN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_5/05_transformers_foundations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5/05_transformers_foundations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_5/05_transformers_foundations_initial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5/05_transformers_foundations_initial.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week_6/06_transformers_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_6/06_transformers_exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_6/06_transformers_exercises_with_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_6/06_transformers_exercises_with_solutions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
