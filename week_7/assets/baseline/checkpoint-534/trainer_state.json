@@ -84,9 +84,9 @@
       "eval_accuracy": 0.5900562851782364,
       "eval_loss": 0.6279429197311401,
       "eval_macro_f1": 0.5263306133862071,
-      "eval_runtime": 6.4939,
-      "eval_samples_per_second": 164.154,
-      "eval_steps_per_second": 5.236,
+      "eval_runtime": 20.95,
+      "eval_samples_per_second": 50.883,
+      "eval_steps_per_second": 1.623,
       "step": 534
     }
   ],

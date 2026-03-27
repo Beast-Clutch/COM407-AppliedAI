@@ -3,15 +3,15 @@
   "citation": "",
   "config_name": "default",
   "dataset_name": "csv",
-  "dataset_size": 188308252,
+  "dataset_size": 199493047,
   "description": "",
   "download_checksums": {
     "/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI/week_4/pp-2025.csv": {
-      "num_bytes": 131832395,
+      "num_bytes": 139672841,
       "checksum": null
     }
   },
-  "download_size": 131832395,
+  "download_size": 139672841,
   "features": {
     "Transaction_unique_identifier": {
       "dtype": "large_string",
@@ -89,12 +89,12 @@
   },
   "homepage": "",
   "license": "",
-  "size_in_bytes": 320140647,
+  "size_in_bytes": 339165888,
   "splits": {
     "train": {
       "name": "train",
-      "num_bytes": 188308252,
-      "num_examples": 757816,
+      "num_bytes": 199493047,
+      "num_examples": 802761,
       "dataset_name": "csv"
     }
   },
