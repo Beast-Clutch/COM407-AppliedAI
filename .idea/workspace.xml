@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Updated requirements.txt, with testing">
+    <list default="true" id="cfdd5bb4-bd74-4212-9ebb-2ac424e94477" name="Changes" comment="Updated HF_TOKEN">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_1/01_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_1/01_introduction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +47,12 @@
     &quot;assignee&quot;: &quot;Beast-Clutch&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Beast-Clutch/COM407-AppliedAI.git&quot;,
-    &quot;accountId&quot;: &quot;3322c80a-2904-425d-9425-a6970508d978&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Beast-Clutch/COM407-AppliedAI.git",
+    "accountId": "3322c80a-2904-425d-9425-a6970508d978"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/week_3/03_data_pipeline_and_tokenisation.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
@@ -67,18 +67,16 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.configTest.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jacktovey/Library/CloudStorage/OneDrive-UniversityofChichester/COM407-AppliedAI/week_6&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.Jupyter Settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -150,15 +148,8 @@
       <workItem from="1773920771093" duration="13271000" />
       <workItem from="1773936376705" duration="639000" />
       <workItem from="1773954333906" duration="2140000" />
-      <workItem from="1774543444035" duration="3255000" />
-      <workItem from="1774550898378" duration="759000" />
-      <workItem from="1774551689201" duration="94000" />
-      <workItem from="1774551956853" duration="1103000" />
-      <workItem from="1774556555274" duration="3650000" />
-      <workItem from="1774561829216" duration="7700000" />
-      <workItem from="1774637858485" duration="819000" />
-      <workItem from="1774638703005" duration="3475000" />
-      <workItem from="1774643592049" duration="1887000" />
+      <workItem from="1774646245823" duration="23000" />
+      <workItem from="1774781511530" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="Week 3 Halfway through">
       <option name="closed" value="true" />
@@ -272,71 +263,7 @@
       <option name="project" value="LOCAL" />
       <updated>1774532535725</updated>
     </task>
-    <task id="LOCAL-00015" summary="Hidden HF Taken behind .env for public repo">
-      <option name="closed" value="true" />
-      <created>1774535667990</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1774535667990</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Added requirements.txt">
-      <option name="closed" value="true" />
-      <created>1774535980646</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1774535980646</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Wk7 Added - Tasks TODO in 07_ag_news_lab_sheet.ipynb">
-      <option name="closed" value="true" />
-      <created>1774540256092</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1774540256092</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Bulk Upload with Git LFS">
-      <option name="closed" value="true" />
-      <created>1774551160415</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1774551160415</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Bulk Upload with Git LFS Safetensor fix">
-      <option name="closed" value="true" />
-      <created>1774558022973</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1774558022973</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Bulk Upload with Git LFS Safetensor fix">
-      <option name="closed" value="true" />
-      <created>1774558036487</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1774558036487</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Bulk Upload with Git LFS">
-      <option name="closed" value="true" />
-      <created>1774558513176</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1774558513176</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Updated requirements.txt, with testing">
-      <option name="closed" value="true" />
-      <created>1774645364565</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1774645364565</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,16 +289,7 @@
     <MESSAGE value="Wk5 - Added Wk5 Notebook and removed hardcoded file paths to work on any system without editing the program codes." />
     <MESSAGE value="Wk6 - End of Wk6 Lessons. Transformers exercises to complete from Task 15." />
     <MESSAGE value="Updated HF_TOKEN" />
-    <MESSAGE value="Hidden HF Taken behind .env for public repo" />
-    <MESSAGE value="Added requirements.txt" />
-    <MESSAGE value="Wk7 Added - Tasks TODO in 07_ag_news_lab_sheet.ipynb" />
-    <MESSAGE value="Bulk Upload with Git LFS Safetensor fix" />
-    <MESSAGE value="Bulk Upload with Git LFS" />
-    <MESSAGE value="Updated requirements.txt, with testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated requirements.txt, with testing" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/COM407_AppliedAI$configTest.coverage" NAME="configTest Coverage Results" MODIFIED="1774638329685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated HF_TOKEN" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

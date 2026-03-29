@@ -1,6 +1,13 @@
-# macOS metadata
+# OS / editor metadata
 .DS_Store
 **/.DS_Store
+.idea/
 
-/week_4/pp-2025.csv
+# Local environments and secrets
 .env
+.venv/
+venv/
+
+
+# Generated notebook outputs and artifacts per weekly convention
+week_*/outputs/**
